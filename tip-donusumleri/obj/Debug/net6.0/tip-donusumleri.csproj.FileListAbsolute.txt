@@ -1,0 +1,15 @@
+E:\Patika\CSharpNetCore\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.exe
+E:\Patika\CSharpNetCore\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.deps.json
+E:\Patika\CSharpNetCore\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.runtimeconfig.json
+E:\Patika\CSharpNetCore\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.dll
+E:\Patika\CSharpNetCore\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.pdb
+E:\Patika\CSharpNetCore\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.csproj.AssemblyReference.cache
+E:\Patika\CSharpNetCore\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+E:\Patika\CSharpNetCore\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.AssemblyInfoInputs.cache
+E:\Patika\CSharpNetCore\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.AssemblyInfo.cs
+E:\Patika\CSharpNetCore\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+E:\Patika\CSharpNetCore\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.dll
+E:\Patika\CSharpNetCore\tip-donusumleri\obj\Debug\net6.0\refint\tip-donusumleri.dll
+E:\Patika\CSharpNetCore\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.pdb
+E:\Patika\CSharpNetCore\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.genruntimeconfig.cache
+E:\Patika\CSharpNetCore\tip-donusumleri\obj\Debug\net6.0\ref\tip-donusumleri.dll
